@@ -10,17 +10,17 @@
         "id": {"value": 2}
     }
     {
-        "name": "CheatMine",
+        "name": "DCJ",
         "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/DCJ.json"},
         "id": {"value": 3}
     }
     {
-        "name": "CheatMine",
+        "name": "KKCraft",
         "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/KKCGrimMatrix.json"},
         "id": {"value": 4}
     }
     {
-        "name": "CheatMine",
+        "name": "MMC",
         "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/MMC.json"},
         "id": {"value": 5}
     }
