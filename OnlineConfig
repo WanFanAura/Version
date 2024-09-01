@@ -1,27 +1,27 @@
 {"configs": [
     {
         "name": "Hypemc",
-        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/Hypemc.json"},
+        "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/Hypemc.json"},
         "id": {"value": 1}
     }
     {
         "name": "CheatMine",
-        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/CheatMine.json"},
+        "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/CheatMine.json"},
         "id": {"value": 2}
     }
     {
         "name": "CheatMine",
-        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/DCJ.json"},
+        "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/DCJ.json"},
         "id": {"value": 3}
     }
     {
         "name": "CheatMine",
-        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/KKCGrimMatrix.json"},
+        "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/KKCGrimMatrix.json"},
         "id": {"value": 4}
     }
     {
         "name": "CheatMine",
-        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/MMC.json"},
+        "link": {"value": "https://raw.githubusercontent.com/WanFanAura/Version/main/MMC.json"},
         "id": {"value": 5}
     }
 ]}
