@@ -1,0 +1,27 @@
+{"configs": [
+    {
+        "name": "Hypemc",
+        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/Hypemc.json"},
+        "id": {"value": 1}
+    }
+    {
+        "name": "CheatMine",
+        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/CheatMine.json"},
+        "id": {"value": 2}
+    }
+    {
+        "name": "CheatMine",
+        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/DCJ.json"},
+        "id": {"value": 3}
+    }
+    {
+        "name": "CheatMine",
+        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/KKCGrimMatrix.json"},
+        "id": {"value": 4}
+    }
+    {
+        "name": "CheatMine",
+        "link": {"value": "https://gitee.com/YQingQNQ/online-config-ascend/raw/master/MMC.json"},
+        "id": {"value": 5}
+    }
+]}
