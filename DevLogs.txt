@@ -1,5 +1,4 @@
 1208
-get God Atom Client Add QGroup-> 981812571
 
 MoreKB
 -added S-Tap
@@ -460,3 +459,46 @@ Morekb
 
 midClick
 -added AutoPearl
+
+1225 Update Pre3
+MoreKB
+-added S-TapB
+-added WTapStopMotion
+
+-recode W-Tap
+-recode LegitSneak
+
+velocity
+-added IntaveCustom/JumpMode
+                                  -added Noraml 
+                                  -added Hurttime
+                                  -added Ticks
+-added IntaveCustom/YReduceReachMotionCheck
+-added IntaveCustom/Boost
+-added IntaveCustomBoostDelay
+-added IntaveCustom/Strafe
+-added IntaveCustom/Reverse
+-added IntaveCustom/Strong
+
+IntaveCustom所更新内容
+-added maxHurtTime
+-added minHurtTime
+-added MouseOver
+-added MoveForward
+-added SwingInPrigress
+-added Sprint
+-added NoInGuiJump
+-added Jump
+-added JumpMode
+-added NoramlJumpMode
+-added HurtTimeJumpMode
+-added TicksJumpMode
+-added ReduceY
+-added ReduceYValue
+-added YReachMotionCheck
+-added Boost
+-added BoostDelay
+-added Strafe
+-added Reverse
+-added Strong
+-added OnlyHurtTime
