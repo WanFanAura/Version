@@ -1,0 +1,412 @@
+1208
+
+MoreKB
+-added S-Tap
+-added Sneak-Tap
+-recode W-Tap
+-added W/S/Sneak-TapTicks
+
+NoWeb
+-added Grim
+-added Intave
+-added Vanilla
+-added IntaveSetting IntaveSneak
+
+Scaffold
+-added SprintMode/OldIntave
+-added Tower/Intave(Test
+-added Tower/Hypixel
+-added IntaveBypassTest
+
+NoFall
+-added HypixelTimer
+
+LongJump
+-added IntaveBoatB
+-added Intave(Test
+-added Polar(Test
+
+KillAura
+-added OnlyAim
+-added NoSilentRotation
+-added MoveFixMode
+-added SmartClick
+-added SmartClickMode
+-added SmartClickMode/Simple/Strick
+-added ResetTick
+-added ResetTickTimer
+-added ResetTickTimeMS
+
+Module
+-delete STapModule
+-delete LegitCombatHelper
+
+
+1209
+MoreKB
+-added PacketLegit
+
+velocity
+-added jump
+
+antibot
+-delete AllSetting
+-added Matrix(Recode
+-added MatrixB
+-added Hypixel
+-added DeBug
+-added TicksExisted
+
+pingspoofer
+-added Latency
+-added CancelPacket
+-added SendAllDisabled
+
+cucstomdisabled
+-added allpacket
+
+speed
+-added HypixelB
+
+
+jesus
+-added IntaveMode
+-added Delay(OnlyIntave
+
+module
+-added new module pingspoofer
+-added new module CustomDisabled
+
+1210
+
+antivoid  
+-added CollisionFlag
+-added Bounce
+
+fastplace
+-added onlyBlocks
+
+moreKB
+-added LegitFastB
+
+scaffold
+-added SneakWhenSwtichItem
+-added SneakSwtichItemDelay
+
+1211
+antivoid
+-added StuckMode
+-added StuckMode/Stuck/StuckB
+-added POlarBlink
+-added BlinkDuration
+//AntiVoid短时间不会在更新
+
+
+1212
+velocity
+-added IntaveC Mode
+-added VerticalReduce/intavec
+-added Yreduce/intavec
+-added YRCheckMotionY/intaveC
+-added IntaveJumpMode/intavec
+            -added Tick
+            -added HurtTimer
+-added IntaveStrong/intavec
+-added IntaveReverse/intavec
+-added IntaveBoost/intavec
+-added BoostDelay/IntaveBoost/intavec
+-added IntaveStrafe
+
+blinkrange
+-added Delay
+-delete Range
+
+module
+-added BlinkRange
+
+1213
+timerrange
+-added LegitLoad
+-fixed Suffix
+
+antibot
+-   All ReCode
+-added Tab
+-added LivingTime
+-added LivingTImeTick
+-added SpawnInCombat
+-added UUID
+-added CustomNameTag
+-added entityID
+-added Sleep
+-added NOArmor
+-added Height
+-added Ground
+-added Dead
+-added Health
+-added Matrix
+-reCode Matrix
+-added Hypixel
+
+morekb
+-added WTapB
+
+velocity
+-delete 无用模式
+
+-added Matrix
+            -added After
+            -added Before
+            -added ReDuce
+            -added Reverse
+-added AAC
+-added PolarB
+
+
+longyan
+-added Mode"死爸了”
+-added Mode"死全家了"
+-added Mode"死妈了"
+-added Mode"鸡鸡炸了"
+-added Mode"阳魏了"
+-added Mode"变成成都人了"
+-added IQSetting
+
+module
+-added LongYan
+
+1214
+antibot
+-fixed 死亡后把玩家视为Bot
+
+moreKB
+-added NewMode"Sprint"
+            -added FastSprint
+            -added FastSprintPacket
+            -added SinglePacket
+            -added NoramlPacket
+            -added DoublePacket
+            -added MorePacket
+-delete DoublePacket,MorePacket//原base自带
+
+scaffold
+-added towermode/MMC
+
+module
+-added Emojify
+
+1215
+emojify
+-added OnlyKillAura
+
+velocity
+-added IntaveMode
+-added PolarMode
+            -added PolarC
+            -added UnderBlock
+-added MatrixMode
+           -added MatrixSemi
+-added AACMode
+           -added Noraml
+           -added AACV5.2.0
+           -added AACV4
+           -added AACV4Reduce
+
+morekb
+-added SneakMode
+            -added LegitSneak
+            -added SneakPacket
+-added SprintMode
+            -added SprintReset
+-added LegitFastMode
+-added LegitModeDelay(LegitSneak and SprintReset
+-added TapMode 
+-added PacketMode
+            -added DoublePacket
+            -added SinglePacket
+            -added NoramlPacket
+-added LegitModeDelay
+
+noweb
+-added IntaveMode
+            -added Intave
+            -added IntaveB
+-added GrimMode
+           -added Grim 
+           -added Grim1.12
+
+killaura
+-added HitReturn
+-added HitRate
+
+disabler
+-added GrimFastBreak
+-added GrimC0e
+
+antiovi
+-added GrimACStuck
+
+1216
+velocity
+-added OtherMode
+            -added Tick
+                        -added Ticks 
+            -added KKCraft
+            -added MineMenClub
+            -added Delay
+                        -added DelayTicks
+intavemode
+-added intavenoraml(0.6MotionX/Z
+-added IntaveJump
+            -added JumpChance
+
+-added GrimMode
+            -added GrimA
+            -added GrimB
+            -added GrimSimple
+                        -added OnlyWhileMove
+                        -added ReduceTime
+                        -added ReduceEveryTime
+            -added GrimReduce
+            -added GrimJump(bad bad bad ,you need use grimlegit
+            -added GrimLegit
+                        -added JumpChance
+                        -added OnSwing
+                        -added Legit
+
+noweb
+-added intaveC
+
+1217
+killaura
+-added ClickMode
+             -added Noraml
+             -added Delay
+
+velocity
+-added LegitMode
+            -added LegitSneak
+            -added LegitJump
+                       -recode
+-added newmode Delay/Noraml/Chance
+allMode Added LiquidCheck
+Added SkipJumpBoost
+delayMode -added Max/MinDelay
+                                     
+
+critcals
+-added GrimTest
+
+noweb
+-intaveB ReCode
+-added UDown
+-added NDown
+-added GroundB
+
+1218
+
+critical
+-added AirStuck
+
+Step
+-added Test
+
+Render
+
+GuiMainMenu
+右上角添加 Module与Setting记数
+
+scaffold
+-added Augustus BlockCount
+-added AugustusBackGround
+-added AugustusBackGroundColor
+-added EspColor
+
+esp
+added MoreMode and Setting
+
+1219
+-added ResourcesDisplay (BedWars资源展示
+
+1221
+velocity
+-added PolarUnderBlockMode
+            polarunderblockmode -added Before(感觉更倾向于Reduce了？
+-added PolarNoramlMode
+            -added after
+             -added before
+              -added cmethod
+
+-added GrimNoramlMode
+-added GrimReduceMode
+-added GrimLegitMode
+
+othermode
+-recode MineMenClub
+
+NoWeb
+-Fixed IntaveMode
+
+disabled
+-added Timerrange(Test
+
+
+
+
+module
+new Module
+-added NurderThingy(狼人杀凶手检测
+
+1222
+noweb
+-fixed
+-fixed
+-fixed
+-fixed
+-fixed
+-fixed
+-fixed
+-fixed
+-fixed
+-All Recode
+
+IntaveC ReCode
+
+antivoid
+-fixed scaffold
+-added TimerEnderPreal
+-recoide TimerMode ReCode
+
+1225
+noWeb
+-recode IntaveMode
+-delete IntaveC
+
+moreKB
+-fixed Legit/LegitFast参数显示错误
+
+timerRange
+suffix FastTick与SlowTick显示错误
+
+antistaff
+-added AutoRunner
+-added HUBDeBUg
+
+stuck
+-added Mode custom/grim/intave
+
+antivoid
+-added AutoEnderPearl
+-added OnlyFallVoid
+
+scaffold
+-added StopRotationOffGround
+-added OffGroundTickThrshold
+
+module
+-added AntiStaff
+-delete StuckB
+
+command
+-added Add Staff
+-added Add Freind
