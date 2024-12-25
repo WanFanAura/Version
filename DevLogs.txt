@@ -411,3 +411,52 @@ module
 command
 -added Add Staff
 -added Add Freind
+
+1225 Update Pre2
+AntiStaff
+DeBug Fixed
+
+Velocity
+-added PolarMotionMode
+            -added PolarMotionAfter
+            -added PolarMotionBefore
+
+-added IntaveNoramlMode
+            -added IntaveAfter
+            -added IntaveBefore
+            -added IntaveCmethod
+
+-added IntaveCustom
+-added XzMotion
+-added MaxHurtTime
+-added MinHurtTime
+-added MouseOver
+-added Forward
+-added SwingInPrigress
+-added Sprint
+-added NoInGuiJimp
+-added Jump
+-added ReduceY
+-added ReduceYValue
+-added OnlyHurtTime
+
+-added IntaveReduce
+            -added ReduceAfter
+            -added ReduceBefore
+
+
+
+noweb
+-recode intaveB
+
+jesus
+-added Dolphin
+
+fastfall
+-added Intave13
+Morekb
+-reCode W-TapB
+-added W-TapBDelay
+
+midClick
+-added AutoPearl
