@@ -502,3 +502,47 @@ IntaveCustom所更新内容
 -added Reverse
 -added Strong
 -added OnlyHurtTime
+
+1226
+invManager
+-added StartMaxDelay
+-added StartMinDelay
+
+TimerBalancer
+-added MOde(Old/New/Intave13
+-oldMode TimerSpeed
+-oldMode TimerMaxSet
+-oldMode TimerSet
+-oldMode Counter
+-oldMode StartXMode
+-oldMode StartX
+-oldMode StartYMode
+-oldMode StartY
+-oldMode FontColor
+-oldMode RectangleColor
+-oldMode FrameMode
+-oldMode FrameColor
+
+-newMode Speed
+-newMode OnMove
+-newModeS08Check
+-newMode Mouse
+-newMode AutoDisable
+
+-intave13 MaxTimer
+-intave13 LowTimer
+-intave13 LowTicks
+-intave13 Ticks
+-intave13 AutoJump
+
+FastUse
+-added Mode(Vanilla/Intave
+
+-added intave LowTimer
+-added intave Ticks
+-added intave MaxTimer
+
+
+Module
+-reName InvCleanerProMax... ~ InvManager
+-added FastUse
